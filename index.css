@@ -661,7 +661,7 @@ footer{
     width: 10px;
   }
   ::-webkit-scrollbar-thumb {
-    background: white;
+    background: rgb(245,185,35);
     border-radius: 3px;
   }
 
