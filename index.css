@@ -62,13 +62,13 @@ background-color:#c48105;
 #florheader{
 height: 100px;
 width: 150px;
-margin-left:520px;
+margin-left:410px;
 align-items: center;
 }
 #florlateral{
     width:60px;
     height:100px;
-    margin-left:140px;
+    margin-left:80px;
 }
 #menu{
     width: 100%;
@@ -76,7 +76,7 @@ align-items: center;
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    margin-left: 200px;
+    margin-left: 240px;
 }
 #menu ul{
     display: flex;
@@ -86,8 +86,6 @@ align-items: center;
     list-style: none;
     padding: 1%;
     margin: 0;
-    margin-left:50px;
-    gap:40px;
 }
 
 #menu ul li{
@@ -107,7 +105,7 @@ width:100%;
 #separacao{
 width: 400px;
 height:50px;
-margin-left:38%;
+margin-left:475px;
 margin-top:66px;
 }
 #separador2{
@@ -118,8 +116,8 @@ margin-top:66px;
     #separacao2{
     width: 400px;
     height:50px;
-    margin-left:38%;
-   margin-top: 137px;
+    margin-left:475px;
+   margin-top: 143px;
     }
     
   
@@ -132,10 +130,10 @@ margin-top:66px;
           width: 400px;
           height:50px;
           margin:auto;
-          margin-left:38%;
+          margin-left:475px;
           z-index: 2;
           position:absolute;
-          top: 4528px;
+          top:4534px;
           
           }
 .inicio2{
@@ -611,12 +609,12 @@ footer{
   height:70px;
   width:60px;
   margin-top:30px;
-  margin-left: 710px;
+  margin-left:580px;
   }
   
   
   .sociais{
-  margin-left: 420px;
+  margin-left: 385px;
   display: flex;
   flex-direction: row;
   
@@ -641,7 +639,7 @@ footer{
   #florlateralfoot{
     width:60px;
     height:100px;
-    margin-left:122px;
+    margin-left:50px;
   }
   .direitos{
   text-align: center;
